@@ -1,5 +1,5 @@
 
-package com.madhukaraphatak.spark.migration.sparkone
+package com.rakeshkaraphatak.spark.migration.sparkone
 
 import org.apache.spark.sql._
 import org.apache.spark.SparkConf

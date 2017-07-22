@@ -1,4 +1,4 @@
-package com.madhukaraphatak.spark.migration.sparktwo
+package com.rakeshkaraphatak.spark.migration.sparktwo
 
 import org.apache.spark.sql._
 import org.apache.spark.SparkConf

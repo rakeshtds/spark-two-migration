@@ -16,7 +16,7 @@
  */
 
 // scalastyle:off println
-package com.madhukaraphatak.spark.migration.sparkone
+package com.rakeshkaraphatak.spark.migration.sparkone
 
 import akka.actor.ActorSystem
 import akka.actor.actorRef2Scala
